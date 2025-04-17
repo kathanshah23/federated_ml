@@ -1,4 +1,4 @@
-NIS CLASS COURSE PROJECT:
+BITE401L Network and Information Systems CLASS COURSE PROJECT:
 Project Done Under Guidance of Prof. Aswani Kumar Cherukuri
 
 Federated Machine Learning for Network Traffic Analysis
