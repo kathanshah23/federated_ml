@@ -1,3 +1,6 @@
+NIS CLASS COURSE PROJECT:
+Project Done Under Guidance of Prof. Aswani Kumar Cherukuri
+
 Federated Machine Learning for Network Traffic Analysis
 🧠 Project Overview
 This project aims to demonstrate a federated learning approach for analyzing and detecting anomalies in network traffic data. Each client (representing an organization or region) trains a local machine learning model using its own data. The server then aggregates these models without accessing the raw data, preserving privacy and enabling global learning.
