@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import classification_report, accuracy_score
 import tensorflow as tf
 
-def load_and_preprocess_excel(file_path):
+def load_and_preprocess_excel(data.csv):
     df = pd.read_excel(file_path)
     X = df.select_dtypes(include=[np.number]).iloc[:, :-1]
     y = df.select_dtypes(include=[np.number]).iloc[:, -1]
